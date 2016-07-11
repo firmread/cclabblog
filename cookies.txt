@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+cclab.tothong.com	TRUE	/wp-admin	FALSE	1999999999	jetpackState[message]	modules_activated
+cclab.tothong.com	TRUE	/wp-admin	FALSE	1999999999	jetpackState[error]	deleted
+cclab.tothong.com	TRUE	/wp-admin	FALSE	1999999999	jetpackState[module]	deleted
+cclab.tothong.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+

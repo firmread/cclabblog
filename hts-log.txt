@@ -1,0 +1,32 @@
+HTTrack3.48-22+htsswf+htsjava launched on Sat, 09 Jul 2016 09:21:26 at cclab.tothong.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" cclab.tothong.com -O1 "\\Mac\Home\Downloads\My Web Sites\cclab" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:23:19	Error: 	"Method Not Allowed" (405) at link cclab.tothong.com/xmlrpc.php (from cclab.tothong.com/)
+09:23:23	Error: 	"Forbidden" (403) at link cclab.tothong.com/comments/feed/ (from cclab.tothong.com/)
+09:27:04	Warning: 	Moved Permanently for cclab.tothong.com/?p=2
+09:27:04	Warning: 	File has moved from cclab.tothong.com/?p=2 to http://cclab.tothong.com/sample-page/
+09:27:04	Warning: 	Moved Temporarily for cclab.tothong.com/wp-admin/
+09:27:04	Warning: 	File has moved from cclab.tothong.com/wp-admin/ to http://cclab.tothong.com/wp-login.php?redirect_to=http%3A%2F%2Fcclab.tothong.com%2Fwp-admin%2F&reauth=1
+09:27:05	Warning: 	Moved Permanently for cclab.tothong.com/?p=36
+09:27:05	Warning: 	File has moved from cclab.tothong.com/?p=36 to http://cclab.tothong.com/2011/11/30/6-the-bulb/
+09:27:05	Warning: 	Moved Permanently for cclab.tothong.com/?p=33
+09:27:05	Warning: 	File has moved from cclab.tothong.com/?p=33 to http://cclab.tothong.com/2011/10/17/5-shifting-out-the-595-chip/
+09:27:05	Warning: 	Moved Permanently for cclab.tothong.com/?p=27
+09:27:05	Warning: 	File has moved from cclab.tothong.com/?p=27 to http://cclab.tothong.com/2011/10/07/4-a-little-playaround-with-circuit/
+09:27:05	Warning: 	Moved Permanently for cclab.tothong.com/?p=21
+09:27:05	Warning: 	File has moved from cclab.tothong.com/?p=21 to http://cclab.tothong.com/2011/09/30/3-inherited-monkey-eyes/
+09:27:05	Warning: 	Moved Permanently for cclab.tothong.com/?p=15
+09:27:05	Warning: 	File has moved from cclab.tothong.com/?p=15 to http://cclab.tothong.com/2011/09/23/2-libraries-minim-sinewave-light-sensor/
+09:27:05	Warning: 	Moved Permanently for cclab.tothong.com/?p=10
+09:27:05	Warning: 	File has moved from cclab.tothong.com/?p=10 to http://cclab.tothong.com/2011/09/22/1-pushmatrixpopmatrix-translate-and-rotate/
+09:27:05	Warning: 	Moved Permanently for cclab.tothong.com/?p=1
+09:27:05	Warning: 	File has moved from cclab.tothong.com/?p=1 to http://cclab.tothong.com/2011/09/10/hello-world/
+09:27:06	Warning: 	Retry after error -4 (No data (connection closed)) at link cclab.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcclab.tothong.com%2F2011%2F09%2F10%2Fhello-world%2F (from cclab.tothong.com/2011/09/10/hello-world/)
+
+HTTrack Website Copier/3.48-22 mirror complete in 5 minutes 41 seconds : 93 links scanned, 80 files written (8048828 bytes overall) [7733623 bytes received at 22679 bytes/sec], 552099 bytes transferred using HTTP compression in 53 files, ratio 37%, 5.8 requests per connection
+(2 errors, 19 warnings, 0 messages)
